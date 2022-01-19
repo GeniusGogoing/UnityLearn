@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard20</TargetFramework>
+    <DefineConstants>ENABLE_PROFILER</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\Libraries\UnityEngine.dll</HintPath>
+    </Reference>  
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entitas.Lite\Entitas.Lite.csproj" />
+  </ItemGroup>
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent" Condition=" '$(Configuration)' == 'Release' ">
+    <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(SolutionDir)\Build\Deploy\Entitas-Lite" />
+  </Target>
+</Project>

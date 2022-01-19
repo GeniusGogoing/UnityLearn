@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <DefineConstants>CONSOLE_APP</DefineConstants>
+    <OutputType>Exe</OutputType>
+    <StartupObject>Readme.MainClass</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\Libraries\UnityEngine.dll</HintPath>
+    </Reference>  
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Sources\Entitas.Lite\Entitas.Lite.csproj" />
+  </ItemGroup>  
+</Project>
