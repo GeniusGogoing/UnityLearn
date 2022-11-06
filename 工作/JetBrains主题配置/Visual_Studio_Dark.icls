@@ -1,0 +1,93 @@
+<scheme name="Visual Studio Dark" version="142" parent_scheme="Visual Studio Dark">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2022-11-02T11:02:35</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2022.2.3.0.0</property>
+    <property name="modified">2022-11-02T11:02:41</property>
+    <property name="originalScheme">_@user_Visual Studio Dark</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <attributes>
+    <option name="LUA_COMMA">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="LUA_DOC_TAG">
+      <value>
+        <option name="FOREGROUND" value="629755" />
+        <option name="EFFECT_COLOR" value="629755" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LUA_DOC_VALUE">
+      <value>
+        <option name="FOREGROUND" value="ba653b" />
+      </value>
+    </option>
+    <option name="LUA_FIELD">
+      <value>
+        <option name="FOREGROUND" value="66d9ef" />
+      </value>
+    </option>
+    <option name="LUA_GLOBAL_FUNCTION_ID">
+      <value>
+        <option name="FOREGROUND" value="fc7c20" />
+      </value>
+    </option>
+    <option name="LUA_GLOBAL_VAR">
+      <value>
+        <option name="FOREGROUND" value="fc7c20" />
+      </value>
+    </option>
+    <option name="LUA_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c583bb" />
+      </value>
+    </option>
+    <option name="LUA_LOCAL_VAR">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="LUA_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="6897bb" />
+      </value>
+    </option>
+    <option name="LUA_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="39cca1" />
+      </value>
+    </option>
+    <option name="LUA_SELF">
+      <value>
+        <option name="FOREGROUND" value="569cce" />
+      </value>
+    </option>
+    <option name="LUA_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="LUA_STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
+    <option name="LUA_STD_API">
+      <value>
+        <option name="FOREGROUND" value="dcdcaa" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="LUA_STRING">
+      <value>
+        <option name="FOREGROUND" value="6a8759" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
