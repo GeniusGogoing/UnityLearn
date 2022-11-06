@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二叉树深度", "二叉树深度\二叉树深度.csproj", "{7DC5C888-0C03-4560-B884-A3461970A1C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC5C888-0C03-4560-B884-A3461970A1C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC5C888-0C03-4560-B884-A3461970A1C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC5C888-0C03-4560-B884-A3461970A1C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC5C888-0C03-4560-B884-A3461970A1C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6BA192A-020E-4BFF-9950-B87A0BC0E9CA}
+	EndGlobalSection
+EndGlobal
