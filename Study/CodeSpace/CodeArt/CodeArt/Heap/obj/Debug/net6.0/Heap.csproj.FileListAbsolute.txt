@@ -1,0 +1,14 @@
+C:\Users\feiyu\Desktop\Study\CSharpProjects\CodeArt\CodeArt\Heap\bin\Debug\net6.0\Heap.exe
+C:\Users\feiyu\Desktop\Study\CSharpProjects\CodeArt\CodeArt\Heap\bin\Debug\net6.0\Heap.deps.json
+C:\Users\feiyu\Desktop\Study\CSharpProjects\CodeArt\CodeArt\Heap\bin\Debug\net6.0\Heap.runtimeconfig.json
+C:\Users\feiyu\Desktop\Study\CSharpProjects\CodeArt\CodeArt\Heap\bin\Debug\net6.0\Heap.dll
+C:\Users\feiyu\Desktop\Study\CSharpProjects\CodeArt\CodeArt\Heap\bin\Debug\net6.0\Heap.pdb
+C:\Users\feiyu\Desktop\Study\CSharpProjects\CodeArt\CodeArt\Heap\obj\Debug\net6.0\Heap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feiyu\Desktop\Study\CSharpProjects\CodeArt\CodeArt\Heap\obj\Debug\net6.0\Heap.AssemblyInfoInputs.cache
+C:\Users\feiyu\Desktop\Study\CSharpProjects\CodeArt\CodeArt\Heap\obj\Debug\net6.0\Heap.AssemblyInfo.cs
+C:\Users\feiyu\Desktop\Study\CSharpProjects\CodeArt\CodeArt\Heap\obj\Debug\net6.0\Heap.csproj.CoreCompileInputs.cache
+C:\Users\feiyu\Desktop\Study\CSharpProjects\CodeArt\CodeArt\Heap\obj\Debug\net6.0\Heap.dll
+C:\Users\feiyu\Desktop\Study\CSharpProjects\CodeArt\CodeArt\Heap\obj\Debug\net6.0\refint\Heap.dll
+C:\Users\feiyu\Desktop\Study\CSharpProjects\CodeArt\CodeArt\Heap\obj\Debug\net6.0\Heap.pdb
+C:\Users\feiyu\Desktop\Study\CSharpProjects\CodeArt\CodeArt\Heap\obj\Debug\net6.0\Heap.genruntimeconfig.cache
+C:\Users\feiyu\Desktop\Study\CSharpProjects\CodeArt\CodeArt\Heap\obj\Debug\net6.0\ref\Heap.dll

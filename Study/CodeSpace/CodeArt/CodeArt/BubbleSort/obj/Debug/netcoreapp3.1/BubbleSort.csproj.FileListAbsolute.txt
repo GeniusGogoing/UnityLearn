@@ -1,0 +1,14 @@
+C:\Study\CSharpProjects\CodeArt\CodeArt\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.exe
+C:\Study\CSharpProjects\CodeArt\CodeArt\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.deps.json
+C:\Study\CSharpProjects\CodeArt\CodeArt\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.json
+C:\Study\CSharpProjects\CodeArt\CodeArt\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.dev.json
+C:\Study\CSharpProjects\CodeArt\CodeArt\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Study\CSharpProjects\CodeArt\CodeArt\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Study\CSharpProjects\CodeArt\CodeArt\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.AssemblyReference.cache
+C:\Study\CSharpProjects\CodeArt\CodeArt\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\CSharpProjects\CodeArt\CodeArt\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfoInputs.cache
+C:\Study\CSharpProjects\CodeArt\CodeArt\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfo.cs
+C:\Study\CSharpProjects\CodeArt\CodeArt\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Study\CSharpProjects\CodeArt\CodeArt\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Study\CSharpProjects\CodeArt\CodeArt\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Study\CSharpProjects\CodeArt\CodeArt\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.genruntimeconfig.cache
